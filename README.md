@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 - 🎓 Pursuing B.E. in Computer Science at Dayananda Sagar College of Engineering (2022–2026)
 - 🔍 Actively expanding my skill set in **Artificial Intelligence** and **Full-Stack Development**
-- 🌱 Passionate about delving into **Data Science and Machine Learning** for innovative problem-solving
+- 🌱 Passionate about delving into **Machine Learning** for innovative problem-solving
 - 💡Motivated to craft meaningful solutions that solve real-world challenges 
 
 ---

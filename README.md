@@ -51,7 +51,7 @@
 ---
 ### 📈 Most used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya104-V&layout=compact&theme=github" alt="Kavya most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya104-V&layout=compact&theme=radical" alt="Kavya most used languages" />
 </p>
 
 
